@@ -1,0 +1,10 @@
+This code wasn't made to always correctly solve wordle but instead have the same idea as humans trying to solve wordle.
+
+The process of my code solving wordle is first guessing the puzzle with the word SALET.
+After guessing the word, the code processes the result and creates a word bank that consists of words that doesn't have grey results but does have green and yellow results.
+After processing the word bank, the code randomly chooses a word from the word bank and types it out repeating the same process.
+This process goes until the wordle is solved or six words are guessed incorrectly.
+
+Instructions:
+To run, you must have your wordle opened in your web browser with your tab in windowed mode full screen. Example: https://prnt.sc/v_BaUForfMxJ
+This code is reliant on mouse clicks so if you want to run it to its full potential, you must have the 'S' key exposed. Example: https://prnt.sc/9tSitvvoHstc
